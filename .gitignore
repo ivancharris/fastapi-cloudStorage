@@ -1,0 +1,4 @@
+service.json
+__pycache__/
+fastapi/
+
